@@ -1,6 +1,6 @@
 # Quadratic File Selection for Context-Limited Repository Analysis
 
-Official repository containing the mathematical simulation, landscape analysis, and source verification scripts submitted to the **Google - The Gemma 4 Developer Agent Paper Track**.
+Official repository containing the mathematical simulation, landscape analysis, and source verification scripts submitted to the **Google - The Gemma 4 Research Paper Track**.
 
 ## 📊 Summary
 This work presents a matrix-based methodology for selecting source files under structural context limits. Instead of relying on multi-turn conversational repository crawling—which consumes context tokens via trace logs—the framework maps context configuration directly to a single preprocessing **Quadratic Unconstrained Binary Optimization (QUBO)** step outside the language model conversation.
